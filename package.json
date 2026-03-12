@@ -1,0 +1,19 @@
+{
+  "name": "backendseris",
+  "version": "1.0.0",
+  "description": "a small app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "dev": " node index.js"
+  },
+  "keywords": [
+    "node",
+    "learn"
+  ],
+  "author": "Muavia(web)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.2.1"
+  }
+}
